@@ -1,4 +1,4 @@
-project = 'At&t'
+project = 'Express VPN'
 author = 'Denial'
 release = '1.0'
  
